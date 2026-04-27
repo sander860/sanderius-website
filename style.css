@@ -1,5 +1,5 @@
 .window1 {
-  color: Aliceblue
+  color: aliceblue;
   width: 300px;
 }
 .window2 {
@@ -13,6 +13,7 @@
 
 .text {
   color: white;
+  background-color: aliceblue;
   font-size: 30px;
   text-align: center;
 }
