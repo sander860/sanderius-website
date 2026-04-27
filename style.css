@@ -1,7 +1,14 @@
 .window1 {
   color: Aliceblue
   width: 300px;
-  
+}
+.window2 {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #111;
 }
 
 .text {
