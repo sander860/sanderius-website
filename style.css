@@ -1,8 +1,8 @@
-.window1 {
+.window2 {
   color: aliceblue;
   width: 300px;
 }
-.window2 {
+.window1 {
   margin: 0;
   height: 100vh;
   display: flex;
