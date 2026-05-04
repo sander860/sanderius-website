@@ -1,3 +1,10 @@
+.item {
+  background-color: lightgray;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+}
+
 .window1 {
   height: 100vh;
   display: flex;
