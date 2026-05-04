@@ -21,11 +21,9 @@
   background-color: aliceblue;
   padding: 40px;
   border-radius: 10px;
-  text-align: center;
   flex-direction: row;   
   flex-wrap: wrap;        
   gap: 20px;              
-  justify-content: center
 }
 
 
