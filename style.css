@@ -1,8 +1,8 @@
-.item {                    ! item for all the items
-  background-color: lightgray;   ! achtergrond kleur
+.item {                   
+  background-color: lightgray;   
   padding: 20px;      
   border-radius: 10px;
-  text-align: left;      ! allign on what side
+  text-align: left;      
 }
 
 .window1 {
