@@ -40,8 +40,9 @@
 }
 
 
-.item-child {
+.image-child {
   max-width: 100%;
   height: auto;
   display: block;
+  align-items: center;
 }
