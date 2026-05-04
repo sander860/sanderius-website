@@ -18,6 +18,12 @@
   padding: 40px;
   border-radius: 10px;
   text-align: center;
+  display: flex;         
+  flex-direction: row;   
+  flex-wrap: wrap;        
+  gap: 20px;              
+  justify-content: center
+}
 }
 
 .card h1 {
