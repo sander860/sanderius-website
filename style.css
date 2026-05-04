@@ -1,3 +1,10 @@
+.item {                   
+  background-color: lightgray;   
+  padding: 20px;      
+  border-radius: 10px;
+  text-align: center;      
+}
+
 .window1 {
   height: 100vh;
   display: flex;
@@ -11,36 +18,27 @@
   padding: 40px;
   border-radius: 10px;
   text-align: center;
-  /* Verwijder flex hier als je de h1 erboven wilt houden */
+  display: flex;         
+  flex-direction: row;   
+  flex-wrap: wrap;        
+  gap: 20px;              
+  justify-content: center
 }
 
-/* De container die de items naast elkaar zet */
-.item-container {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  gap: 20px;
-  justify-content: center;
-  margin-top: 20px; /* Ruimte onder de 'shop' titel */
-}
 
-.item {
-  background-color: lightgray;
-  padding: 20px;
-  border-radius: 10px;
-  text-align: center;
-  width: 150px; /* Geeft elk item een mooie breedte */
+.card h1 {
+  color: black;
 }
 
 .shop {
-  color: #111; /* Veranderd van wit naar donker omdat de card lichtblauw is */
+  color: white;
+  text-align: center;
   font-family: "Arial Black", sans-serif;
-  margin-bottom: 10px;
 }
+
 
 .item-child {
   max-width: 100%;
   height: auto;
   display: block;
-  border-radius: 5px;
 }
