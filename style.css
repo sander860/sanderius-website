@@ -4,13 +4,6 @@
   border-radius: 10px;   
 }
 
-.window1 {
-  height: 100vh;
-  justify-content: center;
-  align-items: center;
-  background-color: #111;
-}
-
 .card {
   background-color: aliceblue;
   padding: 40px;
