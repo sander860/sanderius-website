@@ -1,32 +1,19 @@
 body {
-  background: black !important;
-}
-
-.item {                   
-  background-color: darkgrey;   
-  padding: 20px;      
-  border-radius: 10px;   
+  background: #111 !important;
+  color: white;
+  margin: 0;
+  font-family: Arial;
 }
 
 .card {
-  background-color: darkgray;
-  padding: 40px;
+  background: #222;
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+}
+
+.item {
+  background: #333;
+  padding: 20px;
   border-radius: 10px;
-  flex-direction: row;   
-  flex-wrap: wrap;        
-  gap: 20px;              
-}
-
-.shop {
-  color: black;
-  text-align: center;
-  font-family: "Arial Black", sans-serif;
-}
-
-
-.image-child {
-  max-width: 100%;
-  height: auto;
-  display: block;
-  align-items: center;
 }
