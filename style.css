@@ -1,3 +1,7 @@
+body {
+  background: red !important;
+}
+
 .item {                   
   background-color: darkgrey;   
   padding: 20px;      
