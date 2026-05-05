@@ -1,5 +1,5 @@
 .item {                   
-  background-color: lightgray;   
+  background-color: black;   
   padding: 20px;      
   border-radius: 10px;   
 }
@@ -14,7 +14,7 @@
 }
 
 .shop {
-  color: white;
+  color: black;
   text-align: center;
   font-family: "Arial Black", sans-serif;
 }
